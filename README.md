@@ -1,2 +1,4 @@
-# digital_content_management
+# Digital Content Management
 Industry simulation project
+
+
